@@ -1,0 +1,9 @@
+{
+  "name": "shelbychat",
+  "version": "1.0.0",
+  "description": "ShelbyChat - AI on Shelby Testnet",
+  "dependencies": {
+    "@shelby-protocol/solana-kit": "^0.2.7",
+    "@vercel/analytics": "^2.0.1"
+  }
+}
